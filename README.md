@@ -20,7 +20,7 @@ Homebridge plugin for monitoring website changes.
 * `url`: The URL to monitor.
 * `interval`: Check interval in ms.
 * `selector`: Optional, CSS selector used for filtering content.
-* `ignoreText`: Optional, do nothing if the page contains the text.
+* `ignoreText`: Optional, Array or String, do nothing if the page contains the text.
 
 ## License
 
