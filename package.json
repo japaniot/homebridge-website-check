@@ -18,6 +18,6 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
     "interval-promise": "1.4.0",
-    "node-fetch": "2.6.0"
+    "node-fetch": "2.6.1"
   }
 }
